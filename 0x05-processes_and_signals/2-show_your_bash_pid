@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Script to display the PID of the current Bash process in a tree format
+# shellcheck disable=SC2009
+
+ps auxf --forest | grep "bash"
