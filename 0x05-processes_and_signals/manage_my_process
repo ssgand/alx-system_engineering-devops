@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-# script to write an infinite loop to a file
-
-while true; do
-	echo "I am alive" >> /tmp/my_process
-	sleep 2
-done

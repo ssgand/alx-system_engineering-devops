@@ -1,1 +1,1 @@
-repo for shell basics assignment
+Directory to save the command line challenge
